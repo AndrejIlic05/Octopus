@@ -10,6 +10,9 @@ This repository contains the project files for Octopus, a modern digital marketi
 ## 🔗 Live Demo
 Check out the live website [here](https://octopus-f83592.webflow.io/).
 
+## 🖼️ Screenshot
+![Website Screenshot](octopus.png)
+
 ## 🛠️ Technologies Used
 - **Webflow**: For design and development.
 
