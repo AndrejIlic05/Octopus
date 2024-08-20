@@ -17,4 +17,4 @@ Check out the live website [here](https://octopus-f83592.webflow.io/).
 - **Webflow**: For design and development.
 
 ## 📧 Contact
-For any inquiries or collaboration opportunities, feel free to reach out via email: [your-email@example.com](mailto:your-ilicwebservices@gmail.com)
+For any inquiries or collaboration opportunities, feel free to reach out via email: [your-email@example.com](mailto:ilicwebservices@gmail.com)
